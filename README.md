@@ -1,6 +1,6 @@
 # SmartBrain-Backend-API-v4
 
-This is the backend(nodejs server) part of the SmartBrain App-v3 to connect it with its database with security. This is the fourth version of **SmartBrain App**. It is a face recognition app.
+This is the backend(nodejs server) part of the **[Smart Brain App-v4](https://github.com/MalihaKabir/SmartBrain-App-v4)** to connect it with its database with security. This is the fourth version of **SmartBrain App**. It is a face recognition app.
 
 ### To run this project:
 
